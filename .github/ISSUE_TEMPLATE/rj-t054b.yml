@@ -1,0 +1,7 @@
+name: RJ T054 probe2
+description: t054 error-message injection probe (owned repo, self-test)
+body:
+  - type: input
+    attributes:
+      label: RJ label
+    "rjt054k<u id=\"rjt054u\">KEYMARK</u>": x
